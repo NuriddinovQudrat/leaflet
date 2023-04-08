@@ -1,0 +1,17 @@
+.one-pop {
+    width: 300px;
+}
+.one-pop > div {
+    display: flex;
+    align-items: center;
+}
+.one-pop img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.one-pop > div p {
+    margin: 0;
+    font-size: 24px;
+    margin-left: 20px;
+}
